@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Pokujiro's Portfolio
+# 岡優太's Portfolio
 
 ### 混沌を構造へ、アイデアを形へ。技術と対話でチームを前進させる、支援型Problem Solverです。
 
