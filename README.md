@@ -93,7 +93,7 @@
 ---
 
 ## 🏆 Awards
-- **卒業論文審査会 優秀賞** (2024年2月) - [記事リンク](http://www.csse.yamaguchi-u.ac.jp/2024/02/20240228.html)
+- **卒業論文審査会 優秀賞** (2024年2月) - [記事リンク](http://www.csse.yamaguchi-u.ac.jp/2025/02/20250226.html)
 - **EMaT(工学系数学統一試験) 成績優秀者** (2023年12月) - [記事リンク](https://www.yamaguchi-u.ac.jp/eng/news/3832/index.html)
 - **常盤賞** (学部4年間の学業成績優秀者に授与)- [記事リンク](http://www.csse.yamaguchi-u.ac.jp/2025/03/20250321.html)
 - **学業特待生** (学部3, 4年次)
