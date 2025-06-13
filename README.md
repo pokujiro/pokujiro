@@ -38,7 +38,8 @@
     
   - **検証と成果:** 12名の被験者実験を行った結果 、本システムを使用したグループは、お手本動画のみで練習したグループに比べ、**動作の一致度が約2倍向上**しました。  また、独自開発した体格補正機能は、被験者から「自然で真似しやすい」と高く評価されました (平均評価 6.0/7.0)。 
   
-  - **使用技術:** Unity, C#, FinalIK, HTC VIVE Ultimate Tracker, Meta Quest 3, SteamVR 
+  - **使用技術:** Unity, C#, FinalIK, HTC VIVE Ultimate Tracker, Meta Quest 3, SteamVR
+  - **卒業論文審査会 優秀賞** (2024年2月) - [記事リンク](http://www.csse.yamaguchi-u.ac.jp/2025/02/20250226.html) 
 </details>
 
 ### 2. マンドリンクラブの楽譜DXプロジェクト | チームの合意形成と業務改革
