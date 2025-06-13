@@ -72,7 +72,7 @@
   
   - **主な機能:** タスクの追加・削除、完了チェックリスト、タスク完了と連動したペットの育成システム、カレンダー機能
   - **使用技術:** React, FastAPI, Python, JavaScript, HTML, CSS
-  - **リポジトリ:** [リポジトリへのリンク](https://github.com/pokujiro/Development9
+  - **リポジトリ:** [リポジトリへのリンク](https://github.com/pokujiro/Development
 </details>
 
 ### 5. 共同開発：スマートコンセント電力モニター
