@@ -84,6 +84,7 @@
   - **主な機能:** リアルタイム電力表示、期間別のグラフ表示（Chart.js）、月間目標設定
   - **使用技術:** Python, tinytuya, HTML, CSS, JavaScript, Chart.js
   - **リポジトリ:** [https://github.com/pokujiro/OutletApp]
+![アプリのスクリーンショット](https://github.com/pokujiro/OutletApp/Outlet_app/image/demo.jpeg)
 </details>
 
 ---
