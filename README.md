@@ -61,7 +61,7 @@
   - **役割:** 主にアイデア出しとチームの意見集約を担当。多様な意見を一つのコンセプトにまとめ上げました。
   - **成果:** ユーザー体験の楽しさが評価され、**People's Choice賞**を受賞。短期間でのアイデアソンとチームでのプロトタイピング能力を証明しました。
   - **使用技術:** JavaScript, React, HTML, CSS
-  - **リポジトリ:** [リポジトリへのリンク]
+  - **リポジトリ:** [[リポジトリへのリンク](https://github.com/T-yao-K/NASA-space-apps-teamb)]
 </details>
 
 ### 4. 個人開発：TodoPet | ゲーミフィケーションを取り入れたタスク管理アプリ
@@ -75,7 +75,7 @@
   - **リポジトリ:** [リポジトリへのリンク]
 </details>
 
-### 5. 個人開発：スマートコンセント電力モニター
+### 5. 共同開発：スマートコンセント電力モニター
 <details>
   <summary><strong>クリックして詳細を表示</strong></summary>
   
@@ -83,7 +83,7 @@
   
   - **主な機能:** リアルタイム電力表示、期間別のグラフ表示（Chart.js）、月間目標設定
   - **使用技術:** Python, tinytuya, HTML, CSS, JavaScript, Chart.js
-  - **リポジトリ:** [https://github.com/pokujiro/OutletApp]
+  - **リポジトリ:** [[リポジトリへのリンク](https://github.com/pokujiro/OutletApp)]
 ![アプリのスクリーンショット](https://github.com/pokujiro/OutletApp/Outlet_app/image/demo.jpeg)
 </details>
 
