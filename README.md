@@ -72,7 +72,7 @@
   
   - **主な機能:** タスクの追加・削除、完了チェックリスト、タスク完了と連動したペットの育成システム、カレンダー機能
   - **使用技術:** React, FastAPI, Python, JavaScript, HTML, CSS
-  - **リポジトリ:** [リポジトリへのリンク](https://github.com/pokujiro/Development
+  - **リポジトリ:** [リポジトリへのリンク](https://github.com/pokujiro/Development)
 </details>
 
 ### 5. 共同開発：スマートコンセント電力モニター
@@ -84,7 +84,7 @@
   - **主な機能:** リアルタイム電力表示、期間別のグラフ表示（Chart.js）、月間目標設定
   - **使用技術:** Python, tinytuya, HTML, CSS, JavaScript, Chart.js
   - **リポジトリ:** [[リポジトリへのリンク](https://github.com/pokujiro/OutletApp)]
-![アプリのスクリーンショット](https://github.com/pokujiro/OutletApp/Outlet_app/image/demo.jpeg)
+
 </details>
 
 ---
